@@ -1,3 +1,5 @@
+# pip install streamlit langgraph langchain-core langchain-groq
+
 import os
 from datetime import date, timedelta
 from typing import TypedDict
